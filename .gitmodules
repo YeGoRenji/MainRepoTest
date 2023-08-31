@@ -1,0 +1,3 @@
+[submodule "SubRepoTest"]
+	path = SubRepoTest
+	url = https://github.com/YeGoTaChi/SubRepoTest
